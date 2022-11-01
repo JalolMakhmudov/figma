@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;0,800;0,900;1,400&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -140,7 +141,7 @@ color: #999999;
     width: 424px;
     height: 88px;
     left: 205px;
-    top: 1555px;
+    top: 1590px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
@@ -154,7 +155,7 @@ color: #999999;
     height: 117px;
     left: 205px;
     top: 1683px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -170,7 +171,7 @@ color: #999999;
     width: 100%;
     height: 0px;
     left: 205px;
-    top: 2100px;
+    top: 2000px;
     border: 1px solid #E0E0E0;  
 }
 .podrobnieokompaniye{
@@ -186,6 +187,538 @@ color: #999999;
     line-height: 25px;
     
 }
+.biryuz25{
+    position: absolute;
+    width: 54px;
+    height: 35px;
+    left: 300px;
+    top: 2000px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    color: #000000;
+}
+  .Our_projects{
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    left: 55px;
+    top: 40%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 8px;
+    line-height: 25px;
+    color: #999999;
+}
+.biryuzyigirmabesh{
+    position: absolute;
+    width: 54px;
+    height: 35px;
+    left: 550px;
+    top: 10%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 53px;
+    color: #000000;
 
+}
+.section_tree{
+    position: absolute;
+    width: 100%;
+    height: 490px;
+    left: 0px;
+    top: 2400px;
+    background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%), #C4C4C4;
+}
+.Наши_работы{
+    position: absolute;
+    width: 540px;
+    height: 88px;
+    left: 205px;
+    top: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 53px;
+    color: #FFFFFF;
+}
+.button_vseuslugi{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 985px;
+    top: 130px;
+    background: #4985FF;
+    box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    border-radius: 30px;
+}
+.card_Исследование1{
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    left: 205px;
+    top: 265px;
+    gap: 85px;
+    border-radius: 10px;
+}
+.card_Исследование2{
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    left: 540px;
+    top: 265px;
+    gap: 85px;
+    border-radius: 10px;
+}
+.card_Исследование3{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    top: 265px;
+    gap: 85px;
+    border-radius: 10px;
+}
+.rasm100{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 250px;
+}
+.kard_title{
+    margin-top: 20px;
+}
+.Наши_проекты2{
+    position: absolute;
+    width: 350px;
+    height: 35px;
+    left: 485px;
+    top: 3472px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    color: #000000;
+}
+.lorem_ipsum2{
+    position: absolute;
+    width: 730px;
+    height: 41px;
+    left: 295px;
+    top: 3557px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    color: #999999;
+}
+.rasmharflar1{
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    left: 215px;
+    top: 3668px;
+}
+.rasmharflar2{
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    left: 455px;
+    top: 3668px;
+}
+.rasmharflar3{
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    left: 695px;
+    top: 3668px;
+}
+.rasmharflar4{
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    left: 935px;
+    top: 3668px;
+}
+.vse_proekti{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 560px;
+    top: 3950px;
+    background: #4985FF;    
+    box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    border-radius: 30px;
+}
+.fonrasm{
+    position: absolute;
+    width: 1920px;
+    height: 670px;
+    left: 0px;
+    top: 4148px;
+    background-size: cover;
+}
+.Video_o_nashey{
+    position: absolute;
+    width: 444px;
+    height: 35px;
+    left: 465px;
+    top: 4218px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.prosto_posmat{
+    position: absolute;
+    width: 730px;
+    height: 15px;
+    left: 320px;
+    top: 4283px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.videolirasm{
+    position: absolute;
+    width: 970px;
+    height: 430px;
+    left: 225px;
+    top: 4468px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(4.jpg);
+    box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    border-radius: 10px;
+}
+.section_six{
+    position: absolute;
+    width: 730px;
+    height: 413px;
+    top: 4968px;
+    background-color: white;
+}
+.Подпишитесь{
+    position: absolute;
+    width: 350px;
+    height: 17px;
+    left: 525px;
+    top: 105px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+.Полезные{
+    position: absolute;
+    width: 730px;
+    height: 15px;
+    left: 325px;
+    top: 145px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    color: #999999;
+}
+.podpisatsa{
+    box-sizing: border-box;
+    position: absolute;
+    width: 489px;
+    height: 25px;
+    left: 85px;
+    top: 195px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    border-radius: 30px;
+    border-radius: 0px 30px 30px 0px;
+}
+.my_ne_shlem{
+    position: absolute;
+    width: 386px;
+    height: 15px;
+    left: 290px;
+    top: 75px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: center;
+    color: #999999;
+}
+.futter{
+    position: absolute;
+    width: 1920px;
+    height: 413px;
+    top: 5375px;
+    background: #F6F6F8;
+}
+.kantaktnaya{
+    position: absolute;
+    left: 205px;
+    top: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+.icon_images{
+    position: absolute;
+    left: 200px;
+    top: 102px;
+}
+.test{
+    position: absolute;
+    left: 225px;
+    top: 105px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.icon_call{
+    position: absolute;
+    left: 200px;
+    top: 152px;
+}
+.nomer{
+    position: absolute;
+    left: 225px;
+    top: 152px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.icon_lakatsa{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+.moskva{
+    position: absolute;
+    left: 225px;
+    top: 200px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.Основные_ссылки{
+    position: absolute;
+    left: 475px;
+    top: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+.glavnaya{
+    position: absolute;
+    left: 485px;
+    top: 105px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.nashiproekti{
+    position: absolute;
+    left: 485px;
+    top: 152px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.nashiuslugi{
+    position: absolute;
+    left: 485px;
+    top: 200px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.kantakti{
+    position: absolute;
+    left: 485px;
+    top: 250px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.Наши_проекты3{
+    position: absolute;
+    left: 695px;
+    top: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+.rasnono{
+    position: absolute;
+    left: 715px;
+    top: 105px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.Сколково{
+    position: absolute;
+    left: 715px;
+    top: 152px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.Проект_Восток{
+    position: absolute;
+    left: 715px;
+    top: 200px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.ТЭЦ{
+    position: absolute;
+    left: 715px;
+    top: 250px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.Социальные_сети{
+    position: absolute;
+    left: 940px;
+    top: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+.com{
+    position: absolute;
+    left: 955px;
+    top: 105px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.instagram{
+    position: absolute;
+    left: 955px;
+    top: 152px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.Facebook{
+    position: absolute;
+    left: 955px;
+    top: 200px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.Twitter{
+    position: absolute;
+    left: 955px;
+    top: 250px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #999999;
+}
+.hr2{
+    position: absolute;
+width: 900px;
+height: 0px;
+left: 195px;
+top: 325px;
 
+/* light grey */
+
+border: 1px solid #E0E0E0;
+}
+.vse{
+    position: absolute;
+    left: 575px;
+    top: 345px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 22px;
+    color: #999999;
+}
 
